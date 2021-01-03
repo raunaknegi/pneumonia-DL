@@ -28,7 +28,7 @@ Number of Epochs: 10
 
 ### Output
 #### Classification Report
-![](plots/classification_report.png)
+![](plots/classification_report.jpg)
 
 #### Accuracy Plot
 ![](plots/acc.png)
